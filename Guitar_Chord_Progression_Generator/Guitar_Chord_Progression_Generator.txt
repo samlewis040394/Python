@@ -1,0 +1,195 @@
+Name: Major chord
+Symbols: maj
+Steps: 1-3-5
+
+Name: Major 7th chord
+Symbols: maj7
+Steps: 1-3-5-7
+
+Name: Major 9th chord
+Symbols: maj9
+Steps: 1-3-5-7-9
+
+Name: Major 11th chord
+Symbols: maj11
+Steps: 1-3-5-7-9-11
+
+Name: Major 13th chord
+Symbols: maj13
+Steps: 1-3-5-7-9-13
+
+Name: Major 9 #11 chord
+Symbols: maj9#11
+Steps: 1-3-5-7-9-#11
+
+Name: Major 13 #11 chord
+Symbols: maj13#11
+Steps: 1-3-5-7-9-#11-13
+
+Name: Major 6th chord
+Symbols: 6
+Steps: 1-3-5-6
+
+Name: Major add9 chord
+Symbols: add9
+Steps: 1-3-5-9
+
+Name: Major 6add9 chord
+Symbols: 6add9
+Steps: 1-3-5-6-9
+
+Name: Major 7 b5 chord
+Symbols: maj7b5
+Steps: 1-3-b5-7
+
+Name: Major 7 #5 chord
+Symbols: maj7#5
+Steps: 1-3-#5-7
+
+Name: Minor chord
+Symbols: m
+Steps: 1-b3-5
+
+Name: Minor 7th chord
+Symbols: m7
+Steps: 1-b3-5-b7
+
+Name: Minor 9th chord
+Symbols: m9
+Steps: 1-b3-5-b7-9
+
+Name: Minor 11th chord
+Symbols: m11
+Steps: 1-b3-5-b7-9-11
+
+Name: Minor 13th chord
+Symbols: m13
+Steps: 1-b3-5-b7-9-11-13
+
+Name: Minor 6th chord
+Symbols: m6
+Steps: 1-b3-5-6
+
+Name: Minor add9 chord
+Symbols: madd9
+Steps: 1-b3-5-9
+
+Name: Minor 6add9 chord
+Symbols: m6add9
+Steps: 1-b3-5-6-9
+
+Name: Minor Major 7th chord
+Symbols: mmaj7
+Steps: 1-b3-5-7
+
+Name: Minor Major 9th chord
+Symbols: mmaj9
+Steps: 1-b3-5-7-9
+
+Name: Half-diminished minor 7 chord
+Symbols: m7b5
+Steps: 1-b3-b5-b7
+
+Name: Minor 7 #5 chord
+Symbols: m7#5
+Steps: 1-b3-#5-b7
+
+Name: Dominant 7th chord
+Symbols: 7
+Steps: 1-3-5-b7
+
+Name: Dominant 9th chord
+Symbols: 9
+Steps: 1-3-5-b7-9
+
+Name: Dominant 11th chord
+Symbols: 11
+Steps: 1-3-5-b7-9-11
+
+Name: Dominant 13th chord
+Symbols: 13
+Steps: 1-3-5-b7-9-13
+
+Name: Dominant 7th suspended 4th chord
+Symbols: 7sus4
+Steps: 1-4-5-b7
+
+Name: Dominant 7th b5
+Symbols: 7b5
+Steps: 1-3-b5-b7
+
+Name: Dominant 7th #5
+Symbols: 7maj5
+Steps: 1-3-#5-b7
+
+Name: Dominant 7th b9
+Symbols: 7b9
+Steps: 1-3-5-b7-b9
+
+Name: Dominant 7th #9
+Symbols: 7#9
+Steps: 1-3-5-b7-#9
+
+Name: Dominant 7th b5 b9
+Symbols: 7(b5,b9)
+Steps: 1-3-b5-b7-b9
+
+Name: Dominant 7th b5 #9
+Symbols: 7(b5,#9)
+Steps: 1-3-b5-b7-#9
+
+Name: Dominant 7th #5 b9
+Symbols: 7(#5,b9)
+Steps: 1-3-#5-b7-b9
+
+Name: Dominant 7th #5 #9
+Symbols: 7(#5,#9)
+Steps: 1-3-#5-b7-#9
+
+Name: Dominat 9th b5
+Symbols: 9b5
+Steps: 1-3-b5-b7-9
+
+Name: Dominat 9th #5
+Symbols: 9#5
+Steps: 1-3-#5-b7-9
+
+Name: Dominant 13th #11
+Symbols: 13#11
+Steps: 1-3-5-b7-9-#11-13
+
+Name: Dominant 13th b9
+Symbols: 13b9
+Steps: 1-3-5-b7-b9-13
+
+Name: Dominant 11th b9
+Symbols: 11b9
+Steps: 1-5-b7-b9-11
+
+Name: Augmented triad
+Symbols: aug
+Steps: 1-3-#5
+
+Name: Diminished triad
+Symbols: dim
+Steps: 1-b3-b5
+
+Name: Diminished seventh chord
+Symbols: dim7
+Steps: 1-b3-b5-6
+
+Name: Suspended 4th chord
+Symbols: sus4
+Steps: 1-4-5
+
+Name: Suspended 2nd chord
+Symbols: sus2
+Steps: 1-2-5
+
+Name: Suspended 2nd 4th chord
+Symbols: sus2sus4
+Steps: 1-2-4-5
+
+Name: Major diminished 5th chord
+Symbols: -5
+Steps: 1-3-b5
